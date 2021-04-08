@@ -17,7 +17,7 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media(max - width: 768px) {
+@media(max-width: 768px) {
   
   .header-image{
     text-align: center;
@@ -108,14 +108,14 @@ li {
   align-items: center;
 }
 li > * {
-  vertical- align: middle;
+  vertical-align: middle;
 }
 
 li > input[type = "checkbox"] {
   margin: 0 10px;
 }
 li > label {
-  padding - left: 10px;
+  padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
@@ -133,7 +133,7 @@ li > input[type = "text"] {
 }
 
 /* Completed */
-#completed - tasks label {
+#completed-tasks label {
   text-decoration: line-through;
   color: #888;
 }
