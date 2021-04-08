@@ -128,7 +128,7 @@ li > input[type = "text"] {
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
-.delete img: hover {
+.delete img:hover {
   transform: rotateZ(0);
 }
 
